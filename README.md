@@ -11,3 +11,9 @@ If you want to have a channel that plays a video and allows the user to browse o
   - Eclipse plugin documentation in the SDK docs: https://sdkdocs.roku.com/display/sdkdoc/Eclipse+Plugin+Guide 
   - The blog post for the Eclipse plugin: https://blog.roku.com/developer/2016/04/20/roku-eclipse-plugin/ 
   - Roku Deploy package for Atom: https://atom.io/packages/roku-deploy 
+
+## FAQ 
+- How do I make the list visible on channel start?
+- - Set the visible field to true for the labellist in MainScene.xml. (e.g. ```visible="true"```)
+- How do I set the opacity of the list? 
+- - Set the opacity field of the labellist in MainScene.xml. (e.g. ```opacity=".5"```)
