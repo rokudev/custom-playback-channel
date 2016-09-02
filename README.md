@@ -17,3 +17,11 @@ If you want to have a channel that plays a video and allows the user to browse o
     - Set the visible field to true for the labellist in MainScene.xml. (e.g. ```visible="true"```)
 - How do I set the opacity of the list? 
     - Set the opacity field of the labellist in MainScene.xml. (e.g. ```opacity=".5"```)
+
+## Issues or Feature Requests
+- Please submit an issue on this repository or post on the Roku forums about this channel. 
+- To create an issue: https://help.github.com/articles/creating-an-issue/ 
+- The Roku forum: https://forums.roku.com/
+- If you have features that you have implemented and want to contribute to this channel's development, submit a pull request! 
+- To create a pull request: https://help.github.com/articles/creating-a-pull-request/
+- What is a pull request? https://help.github.com/articles/about-pull-requests/ 
