@@ -14,6 +14,6 @@ If you want to have a channel that plays a video and allows the user to browse o
 
 ## FAQ 
 - How do I make the list visible on channel start?
-- - Set the visible field to true for the labellist in MainScene.xml. (e.g. ```visible="true"```)
+    - Set the visible field to true for the labellist in MainScene.xml. (e.g. ```visible="true"```)
 - How do I set the opacity of the list? 
-- - Set the opacity field of the labellist in MainScene.xml. (e.g. ```opacity=".5"```)
+    - Set the opacity field of the labellist in MainScene.xml. (e.g. ```opacity=".5"```)
