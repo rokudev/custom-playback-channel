@@ -1,5 +1,7 @@
-# custom-playback-channel
+# Custom Playback Channel
 SceneGraph Roku SDK2 example of how to display video with a playlist of content
+
+![Custom Playback Graphic](https://raw.githubusercontent.com/rokudev/docs/c8dd67bb38a53eb57948c4f65237954bb22e0014/images/custom-playback.jpg)
 
 ## Use Cases
 If you want to have a channel that plays a video and allows the user to browse other content on a list that's displayed without stopping the video.
